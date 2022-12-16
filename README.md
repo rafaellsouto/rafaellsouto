@@ -1,11 +1,9 @@
 ## Oi, eu sou a Rafael Souto, Programador backend e samsung lover!
-<div style="center">
-  - 👋 Hi, I’m @rafaellsouto
-  - 👀 I’m interested in ...
-  - 🌱 I’m currently learning ...
-  - 💞️ I’m looking to collaborate on ...
-  - 📫 How to reach me ...
-</div>
+
+- 👋 Olá, Eu sou @rafaellsouto
+- 🌱 Eu atualmente estou estudando C
+- 🚀 Eu uso Pop OS 22.04
+
 
 <div align="center">
   <a href="https://github.com/rafaellsouto">
