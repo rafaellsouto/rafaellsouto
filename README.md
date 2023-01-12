@@ -3,7 +3,7 @@
 - 👋 Olá, Eu sou @rafaellsouto
 - 🌱 Eu atualmente estou estudando C
 - 🚀 Eu uso Pop OS 22.04
-
+<hr>
 <!--
 <div align="center">
   <a href="https://github.com/rafaellsouto">
