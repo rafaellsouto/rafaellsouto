@@ -1,4 +1,4 @@
-## Oi, eu sou a Rafael Souto, Programador backend e samsung lover!
+## Oi, eu sou a Rafael Souto, Programador backend!
 
 - 👋 Olá, Eu sou @rafaellsouto
 - 🌱 Eu atualmente estou estudando C/C++
