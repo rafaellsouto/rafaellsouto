@@ -4,6 +4,7 @@
 - 🌱 Eu atualmente estou estudando JavaScript
 - 🚀 Eu uso Pop OS 22.04
 ##
+## Tecnologias que uso
 <!--
 <div align="center">
   <a href="https://github.com/rafaellsouto">
