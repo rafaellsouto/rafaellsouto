@@ -1,8 +1,9 @@
 ## Oi, eu sou a Rafael Souto, Programador backend!
 
 - 👋 Olá, Eu sou @rafaellsouto
-- 🌱 Eu atualmente estou estudando JavaScript
-- 🚀 Eu uso Pop OS 22.04
+- 👨‍💻 Sistemas de informação
+- 🌱 Eu atualmente estou estudando C++
+- 🐙 Eu uso Ubuntu 22.04
 ##
 ## Tecnologias que uso
 <!--
