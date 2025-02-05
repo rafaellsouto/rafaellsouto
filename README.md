@@ -2,7 +2,7 @@
 
 - 👋 Olá, Eu sou @rafaellsouto
 - 👨‍💻 Sistemas de informação
-- 🌱 Eu atualmente estou estudando C++
+- 🌱 Eu atualmente estou estudando Python e Java
 - 🐙 Eu uso Ubuntu 22.04
 ##
 ## Tecnologias que uso
